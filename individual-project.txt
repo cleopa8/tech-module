@@ -3,5 +3,9 @@ Some changes
 add locally
 
 added some changes by GitHub
+<<<<<<< HEAD
 additions
 
+=======
+Changed made during branchname mode
+>>>>>>> branchName
