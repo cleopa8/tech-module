@@ -3,4 +3,4 @@ Some changes
 add locally
 
 added some changes by GitHub
-
+Changed made during branchname mode
